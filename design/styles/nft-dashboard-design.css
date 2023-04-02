@@ -1,0 +1,2672 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.nft-dashboard-design-4AL {
+  box-sizing: border-box;
+  padding: 4.365rem 4.407rem 3.3rem 3.2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #0a0c20;
+}
+.nft-dashboard-design-4AL .side-navigation-khN {
+  margin: 0rem 3.2rem 0.965rem 0rem;
+  box-sizing: border-box;
+  padding: 3.2rem 0rem 6.2rem 0rem;
+  width: 7.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(162.34deg, #161a42 22.61%, rgba(22, 26, 66, 0) 118.29%);
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .side-navigation-khN .random-symboles-5-QQY {
+  margin: 0rem 0.059rem 3.8rem 0rem;
+  width: 2.1412rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .side-navigation-khN .menu-sJ8 {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .side-navigation-khN .menu-sJ8 .selected-menu-PGU {
+  margin-bottom: 4.4rem;
+  width: 7.2rem;
+  height: 4.8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .side-navigation-khN .menu-sJ8 .icon-message-7TN {
+  margin-bottom: 5.3599rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .side-navigation-khN .menu-sJ8 .icon-buy-EXz {
+  margin-bottom: 5.8626rem;
+  width: 2.4rem;
+  height: 2.3775rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .side-navigation-khN .menu-sJ8 .icon-activity-xyn {
+  margin-bottom: 5.6rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .side-navigation-khN .menu-sJ8 .icon-time-circle-g96 {
+  margin-bottom: 5.6rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .side-navigation-khN .menu-sJ8 .line-CdE {
+  margin: 0rem 0.8rem 5.4rem 0.8rem;
+  width: calc(100% - 1.6rem);
+  height: 0.2rem;
+  background-color: #2d347b;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .side-navigation-khN .menu-sJ8 .icon-wallet-7VJ {
+  margin-bottom: 5.6rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .side-navigation-khN .menu-sJ8 .icon-friends-3Nx {
+  margin-bottom: 5.6rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .side-navigation-khN .menu-sJ8 .icon-settings-wz8 {
+  margin-bottom: 24.1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .side-navigation-khN .menu-sJ8 .icon-log-out-FV2 {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 {
+  margin: 0rem 3.193rem 4.465rem 0rem;
+  width: 134rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .top-Bmz {
+  width: 100%;
+  height: 6.1rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .top-Bmz .serach-wFN {
+  margin: 0.3rem 4.5rem 0.2rem 0rem;
+  box-sizing: border-box;
+  padding: 1.6rem 2rem;
+  width: 44.9rem;
+  height: calc(100% - 0.5rem);
+  background: linear-gradient(162.34deg, #161a42 22.61%, rgba(22, 26, 66, 0) 118.29%);
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .top-Bmz .serach-wFN .group-1000002787-3pC {
+  box-sizing: border-box;
+  padding: 0.178rem 0rem 0.1rem 0.178rem;
+  width: 27.9rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .top-Bmz .serach-wFN .group-1000002787-3pC .icon-search-B9i {
+  margin-right: 2.8458rem;
+  width: 2.0764rem;
+  height: 2.1222rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .top-Bmz .serach-wFN .group-1000002787-3pC .label-KFv {
+  margin-bottom: 0.0778rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #a1a5b6;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .top-Bmz .icons-5H2 {
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .top-Bmz .icons-5H2 .auto-group-da96-1wN {
+  box-sizing: border-box;
+  padding: 0.5rem 1.6rem 0rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .top-Bmz .icons-5H2 .auto-group-da96-1wN .balance-Lik {
+  margin-right: 1.6rem;
+  box-sizing: border-box;
+  padding: 1.6rem 1.6rem 1.6rem 1.9rem;
+  width: 12rem;
+  height: 100%;
+  background: linear-gradient(162.34deg, #161a42 22.61%, rgba(22, 26, 66, 0) 118.29%);
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .top-Bmz .icons-5H2 .auto-group-da96-1wN .balance-Lik .balance-sCt {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .top-Bmz .icons-5H2 .auto-group-da96-1wN .balance-Lik .balance-sCt .icon-eth-REQ {
+  margin: 0.2rem 0.7rem 0rem 0rem;
+  width: 1rem;
+  height: 1.6118rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .top-Bmz .icons-5H2 .auto-group-da96-1wN .balance-Lik .balance-sCt .label-YK2 {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.032rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .top-Bmz .icons-5H2 .auto-group-da96-1wN .ic-yv8 {
+  width: 5.6rem;
+  height: 5.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .top-Bmz .icons-5H2 .auto-group-rshn-7WY {
+  margin-right: 1.6rem;
+  box-sizing: border-box;
+  padding-top: 0.5rem;
+  width: 9.6rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .top-Bmz .icons-5H2 .auto-group-rshn-7WY .create-3uz {
+  width: 100%;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  background: linear-gradient(162.34deg, #161a42 22.61%, rgba(22, 26, 66, 0) 118.29%);
+  border-radius: 1.6rem;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .top-Bmz .icons-5H2 .header-WHn {
+  width: 17.4rem;
+  height: 5.6rem;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .top-Bmz .icons-5H2 .header-WHn .connect-wallet-Tip {
+  width: 100%;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f9fafb;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  box-shadow: 0 1.3rem 1.7rem rgba(140, 213, 105, 0.200000003);
+  background-color: #161a42;
+  border-radius: 1.2rem;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .top-Bmz .auto-group-pfuj-JzL {
+  box-sizing: border-box;
+  padding-left: 2.1rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .top-Bmz .auto-group-pfuj-JzL .rectangle-10-Feg {
+  margin: 0.1rem 2rem 0rem 0rem;
+  width: 0.2rem;
+  height: 5.6rem;
+  background: linear-gradient(90deg, #9796f0 50%, #fbc7d4 50%);
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .top-Bmz .auto-group-pfuj-JzL .profile-Ytg {
+  margin-bottom: 0.5rem;
+  height: 5.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .top-Bmz .auto-group-pfuj-JzL .profile-Ytg .unsplash-pmace385ruo-JN4 {
+  width: 5.6rem;
+  height: 5.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .top-Bmz .auto-group-pfuj-JzL .profile-Ytg .auto-group-szat-pbJ {
+  box-sizing: border-box;
+  padding: 0.3rem 0.379rem 0.4rem 1.6rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .top-Bmz .auto-group-pfuj-JzL .profile-Ytg .auto-group-szat-pbJ .name-kjr {
+  margin-right: 6.4793rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .top-Bmz .auto-group-pfuj-JzL .profile-Ytg .auto-group-szat-pbJ .name-kjr .musfiqur-rahman-huz {
+  margin-bottom: 0.8rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #e2e4e8;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .top-Bmz .auto-group-pfuj-JzL .profile-Ytg .auto-group-szat-pbJ .name-kjr .ryzenpixelgmailcom-Ef2 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #93c5fd;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .top-Bmz .auto-group-pfuj-JzL .profile-Ytg .auto-group-szat-pbJ .ph-caret-down-AYg {
+  margin-top: 0.2417rem;
+  width: 1.6414rem;
+  height: 0.8949rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ {
+  box-sizing: border-box;
+  padding-top: 4.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .live-auction-E2k {
+  margin-bottom: 4.4rem;
+  width: 133.8rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .live-auction-E2k .auto-group-ojgg-n4G {
+  margin: 0rem 0.2rem 3.1rem 0rem;
+  width: calc(100% - 0.2rem);
+  height: 4rem;
+  display: flex;
+  align-items: center;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .live-auction-E2k .auto-group-ojgg-n4G .popular-nfts-live-auction-hh2 {
+  margin-right: 81rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #e2e4e8;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .live-auction-E2k .auto-group-ojgg-n4G .link-D9a {
+  margin: 0.8rem 0;
+  box-sizing: border-box;
+  padding: 0.2rem 0.675rem 0.2rem 0rem;
+  height: calc(100% - 1.6rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .live-auction-E2k .auto-group-ojgg-n4G .link-D9a .show-more-Xg4 {
+  margin-right: 2.3293rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.4285714286;
+  color: #5eead4;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .live-auction-E2k .auto-group-ojgg-n4G .link-D9a .ph-caret-down-TJp {
+  margin-top: 0rem;
+  width: 0.8957rem;
+  height: 1.6414rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .live-auction-E2k .auto-group-n1qa-zJk {
+  width: 100%;
+  height: 30.5rem;
+  display: flex;
+  align-items: center;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .live-auction-E2k .auto-group-n1qa-zJk .live-auction-2-jXE {
+  margin-right: 3.8rem;
+  box-sizing: border-box;
+  padding: 16.2rem 2.4rem 1.4rem 2.4rem;
+  width: 65rem;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/mask-group.png');
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .live-auction-E2k .auto-group-n1qa-zJk .live-auction-2-jXE .content-G1N {
+  margin-right: 29.5rem;
+  box-sizing: border-box;
+  padding: 1.4rem 2.4rem;
+  width: 30.7rem;
+  height: 100%;
+  border: solid 0.1rem #60a5fa;
+  backdrop-filter: blur(0.6rem);
+  background-color: rgba(0, 0, 0, 0.400000006);
+  border-radius: 1.2rem;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .live-auction-E2k .auto-group-n1qa-zJk .live-auction-2-jXE .content-G1N .group-1000002789-mip {
+  width: 100%;
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .live-auction-E2k .auto-group-n1qa-zJk .live-auction-2-jXE .content-G1N .group-1000002789-mip .group-1000002788-vbi {
+  margin: 0rem 0.1rem 1.8rem 0rem;
+  height: 4.7rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .live-auction-E2k .auto-group-n1qa-zJk .live-auction-2-jXE .content-G1N .group-1000002789-mip .group-1000002788-vbi .icon-hourglass-E6c {
+  margin: 0.3rem 1rem 0rem 0rem;
+  width: 1.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .live-auction-E2k .auto-group-n1qa-zJk .live-auction-2-jXE .content-G1N .group-1000002789-mip .group-1000002788-vbi .auto-group-wszw-k4x {
+  margin-right: 3.3rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .live-auction-E2k .auto-group-n1qa-zJk .live-auction-2-jXE .content-G1N .group-1000002789-mip .group-1000002788-vbi .auto-group-wszw-k4x .h-17m-29s-gUQ {
+  margin-bottom: 0.6rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.4444444444;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .live-auction-E2k .auto-group-n1qa-zJk .live-auction-2-jXE .content-G1N .group-1000002789-mip .group-1000002788-vbi .auto-group-wszw-k4x .time-remaining-zjz {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .live-auction-E2k .auto-group-n1qa-zJk .live-auction-2-jXE .content-G1N .group-1000002789-mip .group-1000002788-vbi .auto-group-3ypl-8bJ {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .live-auction-E2k .auto-group-n1qa-zJk .live-auction-2-jXE .content-G1N .group-1000002789-mip .group-1000002788-vbi .auto-group-3ypl-8bJ .eth-VRr {
+  margin-bottom: 0.4rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.5555555556;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .live-auction-E2k .auto-group-n1qa-zJk .live-auction-2-jXE .content-G1N .group-1000002789-mip .group-1000002788-vbi .auto-group-3ypl-8bJ .highest-bid-dHA {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .live-auction-E2k .auto-group-n1qa-zJk .live-auction-2-jXE .content-G1N .group-1000002789-mip .frame-113-kMn {
+  width: 100%;
+  height: 3.6rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.4285714286;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #06b6d4;
+  box-sizing: border-box;
+  backdrop-filter: blur(0.5rem);
+  background-color: rgba(22, 26, 66, 0.6999999881);
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .live-auction-E2k .auto-group-n1qa-zJk .live-auction-1-udz {
+  box-sizing: border-box;
+  padding: 16.2rem 2.4rem 1.4rem 2.4rem;
+  width: 65rem;
+  height: 100%;
+  background-color: #516284;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/unsplash-smcktich5e-bg.png');
+  border-radius: 2.4rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .live-auction-E2k .auto-group-n1qa-zJk .live-auction-1-udz .content-2yW {
+  margin-right: 29.5rem;
+  box-sizing: border-box;
+  padding: 1.4rem 2.4rem;
+  width: 30.7rem;
+  height: 100%;
+  border: solid 0.1rem #60a5fa;
+  backdrop-filter: blur(0.6rem);
+  background-color: rgba(0, 0, 0, 0.3199999928);
+  border-radius: 1.2rem;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .live-auction-E2k .auto-group-n1qa-zJk .live-auction-1-udz .content-2yW .group-1000002789-N1n {
+  width: 100%;
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .live-auction-E2k .auto-group-n1qa-zJk .live-auction-1-udz .content-2yW .group-1000002789-N1n .group-1000002788-KSp {
+  margin: 0rem 0.1rem 1.8rem 0rem;
+  height: 4.7rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .live-auction-E2k .auto-group-n1qa-zJk .live-auction-1-udz .content-2yW .group-1000002789-N1n .group-1000002788-KSp .icon-hourglass-2c8 {
+  margin: 0.3rem 1rem 0rem 0rem;
+  width: 1.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .live-auction-E2k .auto-group-n1qa-zJk .live-auction-1-udz .content-2yW .group-1000002789-N1n .group-1000002788-KSp .auto-group-t5qs-Lsi {
+  margin-right: 3.3rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .live-auction-E2k .auto-group-n1qa-zJk .live-auction-1-udz .content-2yW .group-1000002789-N1n .group-1000002788-KSp .auto-group-t5qs-Lsi .h-17m-29s-teL {
+  margin-bottom: 0.6rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.4444444444;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .live-auction-E2k .auto-group-n1qa-zJk .live-auction-1-udz .content-2yW .group-1000002789-N1n .group-1000002788-KSp .auto-group-t5qs-Lsi .time-remaining-DAp {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .live-auction-E2k .auto-group-n1qa-zJk .live-auction-1-udz .content-2yW .group-1000002789-N1n .group-1000002788-KSp .auto-group-hqjp-jur {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .live-auction-E2k .auto-group-n1qa-zJk .live-auction-1-udz .content-2yW .group-1000002789-N1n .group-1000002788-KSp .auto-group-hqjp-jur .eth-HRa {
+  margin-bottom: 0.4rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.5555555556;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .live-auction-E2k .auto-group-n1qa-zJk .live-auction-1-udz .content-2yW .group-1000002789-N1n .group-1000002788-KSp .auto-group-hqjp-jur .highest-bid-pRW {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .live-auction-E2k .auto-group-n1qa-zJk .live-auction-1-udz .content-2yW .group-1000002789-N1n .frame-113-ka4 {
+  width: 100%;
+  height: 3.6rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.4285714286;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #06b6d4;
+  box-sizing: border-box;
+  backdrop-filter: blur(0.5rem);
+  background-color: rgba(22, 26, 66, 0.6999999881);
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .top-sellers-HiQ {
+  margin-bottom: 4rem;
+  width: 131.6415rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .top-sellers-HiQ .label-RJp {
+  margin-bottom: 2rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3333333333;
+  color: #6ee7b7;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .top-sellers-HiQ .auto-group-uuwz-LRn {
+  margin-bottom: 1.6rem;
+  width: 100%;
+  height: 6rem;
+  display: flex;
+  align-items: center;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .top-sellers-HiQ .auto-group-uuwz-LRn .rank-1-3qz {
+  margin-right: 6.8585rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .top-sellers-HiQ .auto-group-uuwz-LRn .rank-1-3qz .auto-group-d8ki-b6p {
+  width: 6rem;
+  height: 100%;
+  background-color: #13184c;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .top-sellers-HiQ .auto-group-uuwz-LRn .rank-1-3qz .auto-group-d8ki-b6p .rectangle-1400-8sS {
+  width: 6rem;
+  height: 6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.2rem;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .top-sellers-HiQ .auto-group-uuwz-LRn .rank-1-3qz .auto-group-br3v-3Uc {
+  box-sizing: border-box;
+  padding: 0.6rem 0rem 1rem 1.2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .top-sellers-HiQ .auto-group-uuwz-LRn .rank-1-3qz .auto-group-br3v-3Uc .auto-group-agc8-N16 {
+  margin-right: 0.7585rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .top-sellers-HiQ .auto-group-uuwz-LRn .rank-1-3qz .auto-group-br3v-3Uc .auto-group-agc8-N16 .name-7Da {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .top-sellers-HiQ .auto-group-uuwz-LRn .rank-1-3qz .auto-group-br3v-3Uc .auto-group-agc8-N16 .balance-ejJ {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.4285714286;
+  color: #5eead4;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .top-sellers-HiQ .auto-group-uuwz-LRn .rank-1-3qz .auto-group-br3v-3Uc .icon-verification-o6Q {
+  margin-bottom: 2rem;
+  width: 1.6831rem;
+  height: 1.6831rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .top-sellers-HiQ .auto-group-uuwz-LRn .rank-2-8Pa {
+  margin-right: 6.8585rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .top-sellers-HiQ .auto-group-uuwz-LRn .rank-2-8Pa .rectangle-1400-tNk {
+  width: 6rem;
+  height: 6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .top-sellers-HiQ .auto-group-uuwz-LRn .rank-2-8Pa .auto-group-nude-EBi {
+  box-sizing: border-box;
+  padding: 0.6rem 0rem 1rem 1.2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .top-sellers-HiQ .auto-group-uuwz-LRn .rank-2-8Pa .auto-group-nude-EBi .auto-group-evxq-NHv {
+  margin-right: 0.7585rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .top-sellers-HiQ .auto-group-uuwz-LRn .rank-2-8Pa .auto-group-nude-EBi .auto-group-evxq-NHv .name-JBa {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .top-sellers-HiQ .auto-group-uuwz-LRn .rank-2-8Pa .auto-group-nude-EBi .auto-group-evxq-NHv .balance-eFS {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.4285714286;
+  color: #5eead4;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .top-sellers-HiQ .auto-group-uuwz-LRn .rank-2-8Pa .auto-group-nude-EBi .icon-verification-BWG {
+  margin-bottom: 2rem;
+  width: 1.6831rem;
+  height: 1.6831rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .top-sellers-HiQ .auto-group-uuwz-LRn .rank-3-Jqn {
+  margin-right: 6.5rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .top-sellers-HiQ .auto-group-uuwz-LRn .rank-3-Jqn .rectangle-1400-fgL {
+  margin-right: 1.2rem;
+  width: 6rem;
+  height: 6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .top-sellers-HiQ .auto-group-uuwz-LRn .rank-3-Jqn .auto-group-6epg-Beg {
+  margin: 0.6rem 0rem 1rem 0rem;
+  height: calc(100% - 1.6rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .top-sellers-HiQ .auto-group-uuwz-LRn .rank-3-Jqn .auto-group-6epg-Beg .name-7oE {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #fafafb;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .top-sellers-HiQ .auto-group-uuwz-LRn .rank-3-Jqn .auto-group-6epg-Beg .balance-sGc {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.4285714286;
+  color: #5eead4;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .top-sellers-HiQ .auto-group-uuwz-LRn .rank-4-zs2 {
+  margin-right: 6.5rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .top-sellers-HiQ .auto-group-uuwz-LRn .rank-4-zs2 .rectangle-1400-m76 {
+  margin-right: 1.2rem;
+  width: 6rem;
+  height: 6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .top-sellers-HiQ .auto-group-uuwz-LRn .rank-4-zs2 .auto-group-5wkn-uDJ {
+  margin: 0.6rem 0rem 1rem 0rem;
+  height: calc(100% - 1.6rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .top-sellers-HiQ .auto-group-uuwz-LRn .rank-4-zs2 .auto-group-5wkn-uDJ .name-d9J {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #fafafb;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .top-sellers-HiQ .auto-group-uuwz-LRn .rank-4-zs2 .auto-group-5wkn-uDJ .balance-BRi {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.4285714286;
+  color: #5eead4;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .top-sellers-HiQ .auto-group-uuwz-LRn .rank-5-WTz {
+  margin-right: 6.8585rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .top-sellers-HiQ .auto-group-uuwz-LRn .rank-5-WTz .rectangle-1400-4Ec {
+  width: 6rem;
+  height: 6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .top-sellers-HiQ .auto-group-uuwz-LRn .rank-5-WTz .auto-group-ggpz-PXn {
+  box-sizing: border-box;
+  padding: 0.6rem 0rem 1rem 1.2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .top-sellers-HiQ .auto-group-uuwz-LRn .rank-5-WTz .auto-group-ggpz-PXn .auto-group-582t-vnc {
+  margin-right: 0.7585rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .top-sellers-HiQ .auto-group-uuwz-LRn .rank-5-WTz .auto-group-ggpz-PXn .auto-group-582t-vnc .name-qua {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .top-sellers-HiQ .auto-group-uuwz-LRn .rank-5-WTz .auto-group-ggpz-PXn .auto-group-582t-vnc .balance-nK2 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.4285714286;
+  color: #5eead4;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .top-sellers-HiQ .auto-group-uuwz-LRn .rank-5-WTz .auto-group-ggpz-PXn .icon-verification-iTa {
+  margin-bottom: 2rem;
+  width: 1.6831rem;
+  height: 1.6831rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .top-sellers-HiQ .auto-group-uuwz-LRn .rank-6-3kk {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .top-sellers-HiQ .auto-group-uuwz-LRn .rank-6-3kk .rectangle-1400-ojv {
+  width: 6rem;
+  height: 6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .top-sellers-HiQ .auto-group-uuwz-LRn .rank-6-3kk .auto-group-x4qe-YhW {
+  box-sizing: border-box;
+  padding: 0.6rem 0rem 1rem 1.2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .top-sellers-HiQ .auto-group-uuwz-LRn .rank-6-3kk .auto-group-x4qe-YhW .auto-group-r8sc-gYp {
+  margin-right: 0.7585rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .top-sellers-HiQ .auto-group-uuwz-LRn .rank-6-3kk .auto-group-x4qe-YhW .auto-group-r8sc-gYp .name-dyr {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .top-sellers-HiQ .auto-group-uuwz-LRn .rank-6-3kk .auto-group-x4qe-YhW .auto-group-r8sc-gYp .balance-nbr {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.4285714286;
+  color: #5eead4;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .top-sellers-HiQ .auto-group-uuwz-LRn .rank-6-3kk .auto-group-x4qe-YhW .icon-verification-LNU {
+  margin-bottom: 2rem;
+  width: 1.6831rem;
+  height: 1.6831rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .top-sellers-HiQ .pageination-GG8 {
+  margin-right: 0.0415rem;
+  width: calc(100% - 0.0415rem);
+  background-color: #161a42;
+  border-radius: 2rem;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .top-sellers-HiQ .pageination-GG8 .vector-1-p2k {
+  width: 40.7rem;
+  height: 0.8rem;
+  background: linear-gradient(90deg, #2193b0 50%, #6dd5ed 50%);
+  border-radius: 2rem;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 {
+  margin-right: 1.2rem;
+  width: calc(100% - 1.2rem);
+  height: 34.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-chc4-rEL {
+  width: 18.8rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-chc4-rEL .hot-bids-Coz {
+  margin-bottom: 2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #b9bee1;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-chc4-rEL .hot-bids-Coz .hot-bids-Coz-sub-0 {
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-chc4-rEL .hot-bids-Coz .hot-bids-Coz-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.3333333333;
+  color: #a5f3fc;
+  font-family: Quicksand, 'Source Sans Pro';
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-chc4-rEL .card-1-j5A {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-chc4-rEL .card-1-j5A .auto-group-xzza-tCx {
+  margin-bottom: 1.5rem;
+  width: 100%;
+  height: 22.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-chc4-rEL .card-1-j5A .auto-group-xzza-tCx .countdown-2KA {
+  box-sizing: border-box;
+  padding: 0.8rem 1.2rem;
+  width: 10.6rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  color: #fafafb;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/bg-neL.png');
+  border-radius: 1rem;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-chc4-rEL .card-1-j5A .auto-group-xzza-tCx .image-5HS {
+  width: 18.8rem;
+  height: 18.8rem;
+  position: absolute;
+  left: 0;
+  top: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-chc4-rEL .card-1-j5A .auto-group-xzza-tCx .like-cHN {
+  box-sizing: border-box;
+  padding-right: 0.1458rem;
+  width: 5.3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 12.3rem;
+  top: 0.8rem;
+  display: flex;
+  align-items: center;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-chc4-rEL .card-1-j5A .auto-group-xzza-tCx .like-cHN .label-KxU {
+  margin-right: 0.5557rem;
+  text-align: right;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.7142857143;
+  color: #fafafb;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-chc4-rEL .card-1-j5A .auto-group-xzza-tCx .like-cHN .icon-heart-SnC {
+  margin-top: 0.0074rem;
+  width: 2.0985rem;
+  height: 1.897rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-chc4-rEL .card-1-j5A .name-Nfr {
+  margin: 0rem 0rem 0.2rem 0.8rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.7142857143;
+  color: #fafafb;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-chc4-rEL .card-1-j5A .auto-group-euws-gwS {
+  margin: 0 0.8rem;
+  width: calc(100% - 1.6rem);
+  height: 2.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-chc4-rEL .card-1-j5A .auto-group-euws-gwS .price-ECG {
+  margin-right: 3.8rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-chc4-rEL .card-1-j5A .auto-group-euws-gwS .history-bid-yQk {
+  width: 6.4rem;
+  height: 100%;
+  position: relative;
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-chc4-rEL .card-1-j5A .auto-group-euws-gwS .history-bid-yQk .person-3-82k {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 4rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-chc4-rEL .card-1-j5A .auto-group-euws-gwS .history-bid-yQk .person-2-rjS {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 2rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-chc4-rEL .card-1-j5A .auto-group-euws-gwS .history-bid-yQk .person-1-PzG {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ {
+  box-sizing: border-box;
+  padding: 5.2rem 0rem 0rem 4rem;
+  height: 100%;
+  display: flex;
+  column-gap: 4rem;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-2-2XS {
+  width: 18.8rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-2-2XS .auto-group-ydwx-P76 {
+  margin-bottom: 1.5rem;
+  width: 100%;
+  height: 22.8rem;
+  position: relative;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-2-2XS .auto-group-ydwx-P76 .countdown-jAx {
+  box-sizing: border-box;
+  padding: 0.8rem 1.2rem;
+  width: 10.6rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  color: #fafafb;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/bg-H7v.png');
+  border-radius: 1rem;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-2-2XS .auto-group-ydwx-P76 .image-cEk {
+  width: 18.8rem;
+  height: 18.8rem;
+  position: absolute;
+  left: 0;
+  top: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-2-2XS .auto-group-ydwx-P76 .like-xJc {
+  box-sizing: border-box;
+  padding-right: 0.1458rem;
+  width: 4.9rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 13.1rem;
+  top: 0.8rem;
+  display: flex;
+  align-items: center;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-2-2XS .auto-group-ydwx-P76 .like-xJc .label-4cY {
+  margin-right: 0.5556rem;
+  text-align: right;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.7142857143;
+  color: #fafafb;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-2-2XS .auto-group-ydwx-P76 .like-xJc .icon-heart-CCx {
+  margin-top: 0.0074rem;
+  width: 2.0985rem;
+  height: 1.897rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-2-2XS .name-8MW {
+  margin: 0rem 0rem 0.2rem 0.8rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.7142857143;
+  color: #fafafb;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-2-2XS .auto-group-jvuu-4W4 {
+  margin: 0 0.8rem;
+  width: calc(100% - 1.6rem);
+  height: 2.4rem;
+  display: flex;
+  align-items: center;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-2-2XS .auto-group-jvuu-4W4 .price-Q48 {
+  margin-right: 3.8rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-2-2XS .auto-group-jvuu-4W4 .history-bid-LiU {
+  width: 6.4rem;
+  height: 100%;
+  position: relative;
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-2-2XS .auto-group-jvuu-4W4 .history-bid-LiU .person-3-tjz {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 4rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-2-2XS .auto-group-jvuu-4W4 .history-bid-LiU .person-2-dSg {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 2rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-2-2XS .auto-group-jvuu-4W4 .history-bid-LiU .person-1-NQG {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-3-u9J {
+  width: 18.8rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-3-u9J .auto-group-urac-TRi {
+  margin-bottom: 1.5rem;
+  width: 100%;
+  height: 22.8rem;
+  position: relative;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-3-u9J .auto-group-urac-TRi .countdown-QLx {
+  box-sizing: border-box;
+  padding: 0.8rem 1.2rem;
+  width: 10.6rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  color: #fafafb;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/bg-vGQ.png');
+  border-radius: 1rem;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-3-u9J .auto-group-urac-TRi .image-3ui {
+  width: 18.8rem;
+  height: 18.8rem;
+  position: absolute;
+  left: 0;
+  top: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-3-u9J .auto-group-urac-TRi .like-BFE {
+  box-sizing: border-box;
+  padding-right: 0.1458rem;
+  width: 4.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 13.2rem;
+  top: 0.8rem;
+  display: flex;
+  align-items: center;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-3-u9J .auto-group-urac-TRi .like-BFE .label-gxg {
+  margin-right: 0.5556rem;
+  text-align: right;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.7142857143;
+  color: #fafafb;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-3-u9J .auto-group-urac-TRi .like-BFE .icon-heart-R9a {
+  margin-top: 0.0074rem;
+  width: 2.0985rem;
+  height: 1.897rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-3-u9J .name-9bN {
+  margin: 0rem 0rem 0.2rem 0.8rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.7142857143;
+  color: #fafafb;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-3-u9J .auto-group-vkvt-Gvt {
+  margin: 0 0.8rem;
+  width: calc(100% - 1.6rem);
+  height: 2.4rem;
+  display: flex;
+  align-items: center;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-3-u9J .auto-group-vkvt-Gvt .price-CpY {
+  margin-right: 3.8rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-3-u9J .auto-group-vkvt-Gvt .history-bid-wGL {
+  width: 6.4rem;
+  height: 100%;
+  position: relative;
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-3-u9J .auto-group-vkvt-Gvt .history-bid-wGL .person-3-UXA {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 4rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-3-u9J .auto-group-vkvt-Gvt .history-bid-wGL .person-2-opL {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 2rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-3-u9J .auto-group-vkvt-Gvt .history-bid-wGL .person-1-LJU {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-4-GC8 {
+  width: 18.8rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-4-GC8 .auto-group-vl8q-d2g {
+  margin-bottom: 1.5rem;
+  width: 100%;
+  height: 22.8rem;
+  position: relative;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-4-GC8 .auto-group-vl8q-d2g .countdown-NFA {
+  box-sizing: border-box;
+  padding: 0.8rem 1.2rem;
+  width: 10.6rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  color: #fafafb;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/bg-UgQ.png');
+  border-radius: 1rem;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-4-GC8 .auto-group-vl8q-d2g .image-eTa {
+  width: 18.8rem;
+  height: 18.8rem;
+  position: absolute;
+  left: 0;
+  top: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-4-GC8 .auto-group-vl8q-d2g .like-PRA {
+  box-sizing: border-box;
+  padding-right: 0.1458rem;
+  width: 4.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 13rem;
+  top: 0.8rem;
+  display: flex;
+  align-items: center;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-4-GC8 .auto-group-vl8q-d2g .like-PRA .item-43-ueQ {
+  margin-right: 0.5557rem;
+  text-align: right;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.7142857143;
+  color: #fafafb;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-4-GC8 .auto-group-vl8q-d2g .like-PRA .heart-daQ {
+  margin-top: 0.0074rem;
+  width: 2.0985rem;
+  height: 1.897rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-4-GC8 .name-AKS {
+  margin: 0rem 0rem 0.2rem 0.8rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.7142857143;
+  color: #fafafb;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-4-GC8 .auto-group-zr6k-Vcc {
+  margin: 0 0.8rem;
+  width: calc(100% - 1.6rem);
+  height: 2.4rem;
+  display: flex;
+  align-items: center;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-4-GC8 .auto-group-zr6k-Vcc .price-EaC {
+  margin-right: 3.8rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-4-GC8 .auto-group-zr6k-Vcc .history-bid-Aye {
+  width: 6.4rem;
+  height: 100%;
+  position: relative;
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-4-GC8 .auto-group-zr6k-Vcc .history-bid-Aye .person-3-KrY {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 4rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-4-GC8 .auto-group-zr6k-Vcc .history-bid-Aye .person-2-s7N {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 2rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-4-GC8 .auto-group-zr6k-Vcc .history-bid-Aye .person-1-QNC {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-5-LFr {
+  width: 18.8rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-5-LFr .auto-group-vf8t-gqW {
+  margin-bottom: 1.5rem;
+  width: 100%;
+  height: 22.8rem;
+  position: relative;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-5-LFr .auto-group-vf8t-gqW .countdown-Ro6 {
+  box-sizing: border-box;
+  padding: 0.8rem 1.2rem;
+  width: 10.6rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  color: #fafafb;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/bg-wgC.png');
+  border-radius: 1rem;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-5-LFr .auto-group-vf8t-gqW .image-VY4 {
+  width: 18.8rem;
+  height: 18.8rem;
+  position: absolute;
+  left: 0;
+  top: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-5-LFr .auto-group-vf8t-gqW .like-EVe {
+  box-sizing: border-box;
+  padding-right: 0.1458rem;
+  width: 4.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 13rem;
+  top: 0.8rem;
+  display: flex;
+  align-items: center;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-5-LFr .auto-group-vf8t-gqW .like-EVe .item-43-9Mi {
+  margin-right: 0.5557rem;
+  text-align: right;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.7142857143;
+  color: #fafafb;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-5-LFr .auto-group-vf8t-gqW .like-EVe .heart-sYc {
+  margin-top: 0.0074rem;
+  width: 2.0985rem;
+  height: 1.897rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-5-LFr .name-1ep {
+  margin: 0rem 0rem 0.2rem 0.8rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.7142857143;
+  color: #fafafb;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-5-LFr .auto-group-5ndw-k6c {
+  margin: 0 0.8rem;
+  width: calc(100% - 1.6rem);
+  height: 2.4rem;
+  display: flex;
+  align-items: center;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-5-LFr .auto-group-5ndw-k6c .price-4sz {
+  margin-right: 3.8rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-5-LFr .auto-group-5ndw-k6c .history-bid-cPi {
+  width: 6.4rem;
+  height: 100%;
+  position: relative;
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-5-LFr .auto-group-5ndw-k6c .history-bid-cPi .person-3-ZZr {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 4rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-5-LFr .auto-group-5ndw-k6c .history-bid-cPi .person-2-JGY {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 2rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-5-LFr .auto-group-5ndw-k6c .history-bid-cPi .person-1-dpc {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-6-AJk {
+  width: 18.8rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-6-AJk .auto-group-uzhz-Jvk {
+  margin-bottom: 1.5rem;
+  width: 100%;
+  height: 22.8rem;
+  position: relative;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-6-AJk .auto-group-uzhz-Jvk .countdown-49E {
+  box-sizing: border-box;
+  padding: 0.8rem 1.2rem;
+  width: 10.6rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  color: #fafafb;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/bg.png');
+  border-radius: 1rem;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-6-AJk .auto-group-uzhz-Jvk .image-L6k {
+  width: 18.8rem;
+  height: 18.8rem;
+  position: absolute;
+  left: 0;
+  top: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-6-AJk .auto-group-uzhz-Jvk .like-UCx {
+  box-sizing: border-box;
+  padding-right: 0.1458rem;
+  width: 4.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 13rem;
+  top: 0.8rem;
+  display: flex;
+  align-items: center;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-6-AJk .auto-group-uzhz-Jvk .like-UCx .item-43-CPr {
+  margin-right: 0.5557rem;
+  text-align: right;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.7142857143;
+  color: #fafafb;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-6-AJk .auto-group-uzhz-Jvk .like-UCx .heart-vak {
+  margin-top: 0.0074rem;
+  width: 2.0985rem;
+  height: 1.897rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-6-AJk .name-4BA {
+  margin: 0rem 0rem 0.2rem 0.8rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.7142857143;
+  color: #fafafb;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-6-AJk .auto-group-efrp-afJ {
+  margin: 0 0.8rem;
+  width: calc(100% - 1.6rem);
+  height: 2.4rem;
+  display: flex;
+  align-items: center;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-6-AJk .auto-group-efrp-afJ .price-Kct {
+  margin-right: 3.8rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-6-AJk .auto-group-efrp-afJ .history-bid-Tyz {
+  width: 6.4rem;
+  height: 100%;
+  position: relative;
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-6-AJk .auto-group-efrp-afJ .history-bid-Tyz .person-3-1Vi {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 4rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-6-AJk .auto-group-efrp-afJ .history-bid-Tyz .person-2-9M2 {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 2rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.nft-dashboard-design-4AL .auto-group-zqsu-Gf2 .auto-group-8egq-HdJ .hot-bids-uK6 .auto-group-jstn-vjJ .card-6-AJk .auto-group-efrp-afJ .history-bid-Tyz .person-1-gLx {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 {
+  width: 36.8rem;
+  height: 109.3349rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv {
+  width: 36.8rem;
+  height: 108.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.3rem #075985;
+  box-sizing: border-box;
+  background: linear-gradient(162.34deg, #161a42 22.61%, rgba(22, 26, 66, 0) 118.29%);
+  border-radius: 1.6rem;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .ornament-F2g {
+  width: 36.8rem;
+  height: 33.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .my-profile-NNC {
+  width: 17.5rem;
+  height: 4rem;
+  position: absolute;
+  left: 9.7rem;
+  top: 3.2rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.1111111111;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .son-of-the-doge-pzt {
+  width: 19.1rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 9.4rem;
+  top: 24.4rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.3333333333;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .avatar-vo2 {
+  box-sizing: border-box;
+  padding: 0.835rem 0.793rem 0.765rem 0.807rem;
+  width: 12rem;
+  height: 12rem;
+  position: absolute;
+  left: 12.4rem;
+  top: 10rem;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .avatar-vo2 .frame-dSY {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .avatar-vo2 .frame-dSY .vector-Pgc {
+  width: 10.4rem;
+  height: 10.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .info-Lrk {
+  width: 32rem;
+  height: 8.3rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 30.8rem;
+  display: flex;
+  align-items: center;
+  border-radius: 1.6rem;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .info-Lrk .asset-5JY {
+  width: 6.8rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .info-Lrk .asset-5JY .content-2Dn {
+  margin-bottom: 1.1rem;
+  width: 100%;
+  height: 5.2rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.5555555556;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  backdrop-filter: blur(0.5rem);
+  background-color: rgba(22, 26, 66, 0.6999999881);
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .info-Lrk .asset-5JY .label-H9i {
+  margin-left: 0.1rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.4285714286;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .info-Lrk .auto-group-7czl-zZv {
+  box-sizing: border-box;
+  padding: 0rem 1.6rem 0rem 1.7rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .info-Lrk .auto-group-7czl-zZv .followers-vTa {
+  margin: 0rem 1.5rem 0rem 0rem;
+  width: 6.8rem;
+  height: calc(100% - 0rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .info-Lrk .auto-group-7czl-zZv .followers-vTa .content-dsn {
+  margin-bottom: 1.1rem;
+  width: 100%;
+  height: 5.2rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.5555555556;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  backdrop-filter: blur(0.5rem);
+  background-color: rgba(22, 26, 66, 0.6999999881);
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .info-Lrk .auto-group-7czl-zZv .followers-vTa .label-72G {
+  margin-left: 0.1rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.4285714286;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .info-Lrk .auto-group-7czl-zZv .likes-Dqz {
+  margin-bottom: 0rem;
+  width: 6.8rem;
+  height: calc(100% - 0rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .info-Lrk .auto-group-7czl-zZv .likes-Dqz .content-ZQ4 {
+  margin-bottom: 1.1rem;
+  width: 100%;
+  height: 5.2rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.5555555556;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  backdrop-filter: blur(0.5rem);
+  background-color: rgba(22, 26, 66, 0.6999999881);
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .info-Lrk .auto-group-7czl-zZv .likes-Dqz .label-Rx4 {
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.4285714286;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .info-Lrk .bidding-Mqi {
+  width: 6.8rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .info-Lrk .bidding-Mqi .content-ucL {
+  margin-bottom: 1.1rem;
+  width: 100%;
+  height: 5.2rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.5555555556;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  backdrop-filter: blur(0.5rem);
+  background-color: rgba(22, 26, 66, 0.6999999881);
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .info-Lrk .bidding-Mqi .label-nAL {
+  margin-left: 0.1rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.4285714286;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .revenue-hHJ {
+  width: 32rem;
+  height: 22.6rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 55.9rem;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .revenue-hHJ .auto-group-zilq-Qb2 {
+  margin: 0rem 1.1rem 1.4rem 0rem;
+  width: calc(100% - 1.1rem);
+  height: 2.8rem;
+  display: flex;
+  align-items: center;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .revenue-hHJ .auto-group-zilq-Qb2 .revenue-8G8 {
+  margin-right: 13rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.4;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .revenue-hHJ .auto-group-zilq-Qb2 .this-month-TZJ {
+  margin: 0.6rem 0rem 0.2rem 0rem;
+  height: calc(100% - 0.8rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .revenue-hHJ .auto-group-zilq-Qb2 .this-month-TZJ .label-bQc {
+  margin-right: 1.1rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.4285714286;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .revenue-hHJ .auto-group-zilq-Qb2 .this-month-TZJ .icon-chevron-89e {
+  width: 1rem;
+  height: 0.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .revenue-hHJ .graph-GWk {
+  margin-left: 0rem;
+  box-sizing: border-box;
+  padding: 2rem 1.8rem 1.4rem 1.2rem;
+  width: calc(100% - 0rem);
+  height: 18.4rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.2rem #485099;
+  backdrop-filter: blur(0.5rem);
+  background-color: rgba(22, 26, 66, 0.6999999881);
+  border-radius: 1.6rem;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .revenue-hHJ .graph-GWk .auto-group-fpqr-zSk {
+  margin: 0.6rem 0.5rem 1.6rem 0rem;
+  height: calc(100% - 2.2rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .revenue-hHJ .graph-GWk .auto-group-fpqr-zSk .item-20-Wfz {
+  margin: 0rem 0rem 1.6rem 0rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.4285714286;
+  color: #b0baec;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .revenue-hHJ .graph-GWk .auto-group-fpqr-zSk .item-15-pgg {
+  margin-bottom: 1.6rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.4285714286;
+  color: #b0baec;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .revenue-hHJ .graph-GWk .auto-group-fpqr-zSk .item-10-Ysa {
+  margin: 0rem 0rem 1.6rem 0rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.4285714286;
+  color: #b0baec;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .revenue-hHJ .graph-GWk .auto-group-fpqr-zSk .item-05-UWL {
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.4285714286;
+  color: #b0baec;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .revenue-hHJ .graph-GWk .auto-group-6sfe-ccY {
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .revenue-hHJ .graph-GWk .auto-group-6sfe-ccY .auto-group-amw6-Atx {
+  margin: 0rem 0.2rem 0.4rem 0rem;
+  width: 26.3rem;
+  height: 12.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .revenue-hHJ .graph-GWk .auto-group-6sfe-ccY .auto-group-7dm2-VRS {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .revenue-hHJ .graph-GWk .auto-group-6sfe-ccY .auto-group-7dm2-VRS .jan-e3S {
+  margin: 0rem 2.1rem 0rem 0rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.4285714286;
+  color: #b0baec;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .revenue-hHJ .graph-GWk .auto-group-6sfe-ccY .auto-group-7dm2-VRS .feb-YuW {
+  margin: 0rem 2rem 0rem 0rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.4285714286;
+  color: #b0baec;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .revenue-hHJ .graph-GWk .auto-group-6sfe-ccY .auto-group-7dm2-VRS .mar-fz8 {
+  margin: 0rem 2.1rem 0rem 0rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.4285714286;
+  color: #b0baec;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .revenue-hHJ .graph-GWk .auto-group-6sfe-ccY .auto-group-7dm2-VRS .apr-Zpc {
+  margin: 0rem 2rem 0rem 0rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.4285714286;
+  color: #b0baec;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .revenue-hHJ .graph-GWk .auto-group-6sfe-ccY .auto-group-7dm2-VRS .may-FBe {
+  margin: 0rem 1.8rem 0rem 0rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.4285714286;
+  color: #b0baec;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .revenue-hHJ .graph-GWk .auto-group-6sfe-ccY .auto-group-7dm2-VRS .jun-y7e {
+  margin-top: 0rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.4285714286;
+  color: #b0baec;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .your-balance-3NQ {
+  width: 32rem;
+  height: 10.6rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 42.1rem;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .your-balance-3NQ .your-balance-mZJ {
+  margin-bottom: 1.4rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.4;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .your-balance-3NQ .balance-hhr {
+  margin-left: 0rem;
+  box-sizing: border-box;
+  padding: 1.6rem 2.4rem 1.6rem 1.6rem;
+  width: calc(100% - 0rem);
+  height: 6.4rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.2rem #485099;
+  backdrop-filter: blur(0.5rem);
+  background-color: rgba(22, 26, 66, 0.6999999881);
+  border-radius: 1.6rem;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .your-balance-3NQ .balance-hhr .amount-cZv {
+  margin-right: 8.6rem;
+  box-sizing: border-box;
+  padding-right: 0.15rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border-radius: 3.2rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .your-balance-3NQ .balance-hhr .amount-cZv .icon-ethereum-6jz {
+  margin-right: 1.25rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 3.2rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .your-balance-3NQ .balance-hhr .amount-cZv .label-2de {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.4;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .your-balance-3NQ .balance-hhr .add-balance-x1W {
+  margin: 0.4rem 0rem 0.4rem 0rem;
+  box-sizing: border-box;
+  padding-right: 0.5334rem;
+  height: calc(100% - 0.8rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .your-balance-3NQ .balance-hhr .add-balance-x1W .label-GXz {
+  margin-right: 1.1333rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .your-balance-3NQ .balance-hhr .add-balance-x1W .icon-chevron-Bur {
+  margin-bottom: 0rem;
+  width: 0.5333rem;
+  height: 0.9333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .recent-activities-4ye {
+  width: 32rem;
+  height: 23.4rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 81.7rem;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .recent-activities-4ye .auto-group-hj32-nPr {
+  margin: 0rem 1.2rem 1.7rem 0rem;
+  width: calc(100% - 1.2rem);
+  display: flex;
+  align-items: flex-end;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .recent-activities-4ye .auto-group-hj32-nPr .recent-activity-Wak {
+  margin-right: 8.8rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.4;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .recent-activities-4ye .auto-group-hj32-nPr .see-all-r8p {
+  margin-top: 0.4rem;
+  box-sizing: border-box;
+  padding: 0.2rem 0.42rem 0.2rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .recent-activities-4ye .auto-group-hj32-nPr .see-all-r8p .label-BRz {
+  margin-right: 0.8847rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.4285714286;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .recent-activities-4ye .auto-group-hj32-nPr .see-all-r8p .icon-arrow-usn {
+  margin-top: 0rem;
+  width: 1.4953rem;
+  height: 0.84rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .recent-activities-4ye .activity-2-S72 {
+  margin: 0rem 0rem 1.3rem 0rem;
+  box-sizing: border-box;
+  padding: 1.2rem;
+  width: calc(100% - 0rem);
+  height: 8.8rem;
+  display: flex;
+  align-items: center;
+  background-color: #21275f;
+  border-radius: 1.6rem;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .recent-activities-4ye .activity-2-S72 .unsplash-fyzoy0hif9a-x5N {
+  margin-right: 1.2rem;
+  width: 6.4rem;
+  height: 6.4rem;
+  background-color: #c4c4c4;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/unsplash-fyzoy0hif9a-bg.png');
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .recent-activities-4ye .activity-2-S72 .info-48Q {
+  margin: 0.9rem 5.1rem 0.9rem 0rem;
+  width: 10.8rem;
+  height: calc(100% - 1.8rem);
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .recent-activities-4ye .activity-2-S72 .info-48Q .label-1-asS {
+  margin-bottom: 0.8rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.2857142857;
+  letter-spacing: 0.028rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .recent-activities-4ye .activity-2-S72 .info-48Q .auto-group-cfcu-hBN {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .recent-activities-4ye .activity-2-S72 .info-48Q .auto-group-cfcu-hBN .label-2-ecQ {
+  margin-right: 0.3rem;
+  display: flex;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.4545454545;
+  letter-spacing: 0.022rem;
+  color: #dbeafe;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .recent-activities-4ye .activity-2-S72 .info-48Q .auto-group-cfcu-hBN .label-3-yPn {
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.4285714286;
+  letter-spacing: 0.028rem;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .recent-activities-4ye .activity-2-S72 .auto-group-bx7a-6jJ {
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .recent-activities-4ye .activity-2-S72 .auto-group-bx7a-6jJ .new-bid-4AL {
+  margin-bottom: 0.8rem;
+  max-width: 6.1rem;
+  text-align: right;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.4285714286;
+  letter-spacing: 0.028rem;
+  color: #93c5fd;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .recent-activities-4ye .activity-2-S72 .auto-group-bx7a-6jJ .new-bid-4AL .new-bid-4AL-sub-0 {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.6666666667;
+  letter-spacing: 0.028rem;
+  color: #67e8f9;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .recent-activities-4ye .activity-2-S72 .auto-group-bx7a-6jJ .new-bid-4AL .new-bid-4AL-sub-1 {
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.4285714286;
+  letter-spacing: 0.028rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .recent-activities-4ye .activity-2-S72 .auto-group-bx7a-6jJ .time-Bng {
+  display: flex;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.4545454545;
+  letter-spacing: 0.022rem;
+  color: #93c5fd;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .recent-activities-4ye .activity-3-s9i {
+  margin-left: 0rem;
+  box-sizing: border-box;
+  padding: 1.2rem 1.2rem;
+  width: calc(100% - 0rem);
+  height: 8.8rem;
+  display: flex;
+  align-items: center;
+  background-color: #21275f;
+  border-radius: 1.6rem;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .recent-activities-4ye .activity-3-s9i .unsplash-9hz5xn0s2qg-b5i {
+  margin-right: 1.2rem;
+  width: 6.4rem;
+  height: 6.4rem;
+  background-color: #c4c4c4;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/unsplash-9hz5xn0s2qg-bg.png');
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .recent-activities-4ye .activity-3-s9i .info-1fE {
+  margin: 0.9rem 5.3rem 0.9rem 0rem;
+  width: 10.6rem;
+  height: calc(100% - 1.8rem);
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .recent-activities-4ye .activity-3-s9i .info-1fE .label-1-jr8 {
+  margin-bottom: 0.8rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.2857142857;
+  letter-spacing: 0.028rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .recent-activities-4ye .activity-3-s9i .info-1fE .auto-group-nqag-4Nc {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .recent-activities-4ye .activity-3-s9i .info-1fE .auto-group-nqag-4Nc .label-2-RDA {
+  margin-right: 0.3rem;
+  display: flex;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.4545454545;
+  letter-spacing: 0.022rem;
+  color: #dbeafe;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .recent-activities-4ye .activity-3-s9i .info-1fE .auto-group-nqag-4Nc .label-3-99A {
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.4285714286;
+  letter-spacing: 0.028rem;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .recent-activities-4ye .activity-3-s9i .auto-group-nyba-GzU {
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .recent-activities-4ye .activity-3-s9i .auto-group-nyba-GzU .new-bid-qXn {
+  margin-bottom: 0.8rem;
+  max-width: 6.1rem;
+  text-align: right;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.4285714286;
+  letter-spacing: 0.028rem;
+  color: #93c5fd;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .recent-activities-4ye .activity-3-s9i .auto-group-nyba-GzU .new-bid-qXn .new-bid-qXn-sub-0 {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.6666666667;
+  letter-spacing: 0.028rem;
+  color: #67e8f9;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .recent-activities-4ye .activity-3-s9i .auto-group-nyba-GzU .new-bid-qXn .new-bid-qXn-sub-1 {
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.4285714286;
+  letter-spacing: 0.028rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .side-bar-KPv .recent-activities-4ye .activity-3-s9i .auto-group-nyba-GzU .time-sct {
+  margin-right: 0rem;
+  display: flex;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.4545454545;
+  letter-spacing: 0.022rem;
+  color: #93c5fd;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nft-dashboard-design-4AL .auto-group-pgcg-n96 .rectangle-4270-gKS {
+  width: 29.2rem;
+  height: 108.4rem;
+  position: absolute;
+  left: 3.6073rem;
+  top: 0.9349rem;
+  filter: blur(12.5rem);
+}
